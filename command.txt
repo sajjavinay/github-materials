@@ -1,0 +1,18 @@
+mkdir
+ls
+pwd
+cat
+cd
+config
+touch
+echo
+git init
+git add .
+git log
+git status
+git commit -m "msg"
+git log --oneline
+git checkout
+git master
+git config --global user.name
+git config --global user.email
